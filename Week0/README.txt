@@ -1,0 +1,1 @@
+Just a program that adds two digits input
